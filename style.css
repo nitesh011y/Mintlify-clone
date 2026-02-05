@@ -173,3 +173,42 @@ body {
   height: 654px;
   border-radius: 20px;
 }
+
+.Knowledge {
+  width: 1497px;
+  height: 1298px;
+  background-color: lightblue;
+  margin-top: 1000px;
+}
+
+.explore {
+  height: 210px;
+  width: 1024px;
+  display: flex;
+  justify-content: space-evenly;
+
+  gap: 150px;
+  background-color: gray;
+  margin: 240px 240px 20px 240px;
+}
+.explore button {
+  margin-top: 110%;
+}
+
+.explore-2 {
+  height: 210px;
+  width: 1024px;
+  display: flex;
+  background-color: gray;
+  margin: 0px 240px 20px 240px;
+}
+
+.explore-3 {
+  height: 1177px;
+  width: 595px;
+  margin: 0px 240px 20px 240px;
+}
+
+.explore-3 img {
+  border: 20px;
+}
