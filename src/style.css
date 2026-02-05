@@ -1,0 +1,135 @@
+body {
+  background-color: #bababa;
+  padding: 0;
+  margin: 0;
+}
+
+.bgImg {
+  background-image: url("/assets/Gemini_Generated_Image_czewi6czewi6czew.png");
+  background-size: cover;
+  height: 870px;
+}
+
+.navbar {
+  height: 65.1px;
+  width: 100%;
+  position: fixed;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  top: 0;
+  background-color: rgb(255, 255, 255, 0.01);
+}
+
+.logo {
+  padding-left: 50px;
+}
+
+.logo img {
+  height: 24px;
+  width: 130px;
+  padding-left: 100px;
+}
+
+.nav-links {
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  color: lab(100 0 0);
+}
+
+.nav-links .links {
+  font-weight: 550;
+}
+
+.sideicon {
+  width: 272px;
+  padding-right: 120px;
+  font-weight: 550;
+  display: flex;
+  gap: 10px;
+}
+
+.sideicon button {
+  width: 116px;
+  height: 33.1px;
+  border: none;
+  border-radius: 20px;
+}
+
+#btn1 {
+  color: lab(100 0 0);
+  padding: 4.5px 12px;
+  background-color: rgb(255, 255, 255, 0.09);
+  font-size: 15px;
+}
+
+#btn2 {
+  color: lab(2.42, -0.16, -0.47);
+
+  padding: 4.5px 12px;
+  font-size: 15px;
+}
+
+.new button {
+  width: 380px;
+  height: 30px;
+  background-color: rgb(0, 0, 0, 0.1);
+  border-radius: 20px;
+  border: none;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #fff;
+  position: relative;
+  top: 100px;
+  left: 37.5%;
+}
+
+#child-1 {
+  background-color: rgba(52, 189, 52, 0.816);
+  width: 45px;
+  height: 22px;
+
+  padding-left: 2px;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 15px;
+  align-content: center;
+}
+
+#new button i {
+  padding: 10px;
+}
+
+.new button p {
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.headings {
+  position: relative;
+  top: 12%;
+
+  color: #ffff;
+}
+
+.headings h1 {
+  font-size: 56.52px;
+  text-align: center;
+  font-family: initial inherit;
+}
+
+.headings p {
+  font-size: 20px;
+  text-align: center;
+  line-height: 7px;
+}
+
+.searchbar {
+  width: 360px;
+  height: 42.7px;
+  background-color: lightblue;
+}
