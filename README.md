@@ -1,44 +1,45 @@
 live link - https://mintlify-css.netlify.app/
 
 
-Mintlify Landing Page (UI Clone)
-Sections Recreated
+*Mintlify Landing Page (UI Clone)
+Sections Recreated ---->
 
-Fixed glassmorphism Navbar
+1 .Fixed glassmorphism Navbar
 
-Hero section with heading, CTA, and background image
+2 .Hero section with heading, CTA, and background image
 
-Company logos section
+3 .Company logos section
 
-Built for the Intelligence Age (image cards + feature image)
+4 .Built for the Intelligence Age (image cards + feature image)
 
-Enterprise knowledge section with customer story
+5 .Enterprise knowledge section with customer story
 
-Customer stories slider
+6 .Customer stories slider
 
-Call-to-action documentation section
+7 .Call-to-action documentation section
 
-Footer with links, social icons, and system status
+8 .Footer with links, social icons, and system status
 
-Fonts Used
 
-Default system font (font-family: initial / inherit)
+*Fonts Used
 
-Font Awesome for icons
+ 1 Default system font (font-family: initial / inherit)
 
-Colors Used
+2 Font Awesome for icons
 
-White: #ffffff
+3 Colors Used
 
-Black: #000000
+4 White: #ffffff
 
-Green accents: rgba(11,146,11,0.75), rgba(52,189,52,0.82)
+5 Black: #000000
 
-Gray text & borders: gray, rgba(128,128,128,0.17)
+6 Green accents: rgba(11,146,11,0.75), rgba(52,189,52,0.82)
 
-Transparent overlays: rgba(255,255,255,0.09)
+7 Gray text & borders: gray, rgba(128,128,128,0.17)
 
-Blur effect: backdrop-filter: blur(10px)
+8 Transparent overlays: rgba(255,255,255,0.09)
+
+9 Blur effect: backdrop-filter: blur(10px)
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e785be63-02fa-4949-ad86-5483164f7198" />
 
